@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <Header/>
+    <h1 id="hOne">RED?</h1>
     <img alt="Vue logo" src="./assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
   </div>
